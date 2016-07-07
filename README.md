@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/ilentt/test_circleci.svg?style=svg)](https://circleci.com/gh/ilentt/test_circleci)
+
 <<<<<<< HEAD
 README
 =======
